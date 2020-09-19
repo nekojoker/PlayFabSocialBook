@@ -5,7 +5,7 @@ https://nekojoker.booth.pm/items/2364132
 
 ## 改訂履歴
 
-### ver 1.0 (2020/09/26)
+### ver 1.0 (2020/09/19)
 
 初版
 
