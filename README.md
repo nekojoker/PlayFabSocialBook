@@ -5,6 +5,11 @@ https://nekojoker.booth.pm/items/2364132
 
 ## 改訂履歴
 
+### ver 1.4 (2022/05/15)
+
+- タイトルのエンティティデータは GameManager 上で確認できるようになった旨を追記
+- 著者紹介ページを最新化
+
 ### ver 1.3 (2021/11/15)
 
 - PlayFabCloudScriptPlugin を使用する前提条件を削除
